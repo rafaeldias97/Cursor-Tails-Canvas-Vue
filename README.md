@@ -2,6 +2,8 @@
 
 > Adaptando Cursor Trails Canvas para o componente Vue 2.0
 
+<a href="https://imgflip.com/gif/2ayonk"><img src="https://i.imgflip.com/2ayonk.gif" title="made at imgflip.com"/></a>
+
 ## Build Setup
 
 ``` bash
