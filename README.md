@@ -1,6 +1,6 @@
-# rafael
+# Cursor Trails Canvas Vue 2.0
 
-> Minha Pagina WEB
+> Adaptando Cursor Trails Canvas para o componente Vue 2.0
 
 ## Build Setup
 

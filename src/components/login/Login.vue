@@ -67,7 +67,6 @@ export default {
     },
     tick() {
       // Remove old points
-      // console.log("chamou");
       points = points.filter((point) => {
         var age = Date.now() - point.time;
         return age < pointLifetime;
